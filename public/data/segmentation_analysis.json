@@ -238,5 +238,25 @@
       "Refractory Gold Processing Operations": {},
       "Metallurgical / Testwork Laboratories": {}
     }
+  },
+  "Mauritania": {
+    "By Product Form / Supply Format": {
+      "Solid Pellets": {},
+      "On-Site Prepared Aqueous Solution": {},
+      "Drum-Packed Supply": {},
+      "Big-Bag Supply": {}
+    },
+    "By Application in Gold Mining": {
+      "Sulphide Gold Flotation": {},
+      "Sulphidized Oxide / Transition Gold Flotation": {},
+      "Rougher Flotation": {},
+      "Scavenger Flotation": {}
+    },
+    "By End User": {
+      "Gold Mines with Flotation Circuits": {},
+      "Gold-Copper Mining Operations": {},
+      "Refractory Gold Processing Operations": {},
+      "Metallurgical / Testwork Laboratories": {}
+    }
   }
 }
